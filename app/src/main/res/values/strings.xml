@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Currency Convertor 2</string>
+    <string name="convert_currency">Convert Currency</string>
+    <string name="amount">Amount</string>
+    <string name="from">from</string>
+    <string name="to">to</string>
+    <string name="convert">Convert</string>
+    <string-array name="currency_name">
+        <item>INR</item>
+        <item>USD</item>
+        <item>EUR</item>
+        <item>AED</item>
+        <item>AMD</item>
+        <item>ANG</item>
+        <item>BAM</item>
+    </string-array>
+</resources>
